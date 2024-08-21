@@ -16,5 +16,5 @@ ollama pull phi3:mini
 
 # LangServe Frontend
 cd langchain-local-llms/
-make serve
+make start
 ```
